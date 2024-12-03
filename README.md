@@ -1,4 +1,4 @@
-# eShop Reference Application - "Northern Mountains"
+# Microservice Shoping Cms
 
 A reference .NET application implementing an eCommerce web site using a services-based architecture.
 
